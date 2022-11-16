@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  background: black url(img/background.png) no-repeat center top;
+}
+
+canvas {
+  border: solid 1px white;
+  margin: 0px auto;
+  display: block;
+}
